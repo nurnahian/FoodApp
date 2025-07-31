@@ -1,4 +1,4 @@
-import { images } from "@/src/constants";
+import { images } from "../../constants";
 import { Image, Text, TouchableOpacity, View } from "react-native";
 
 const CartButton = () => {
