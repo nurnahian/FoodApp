@@ -4,6 +4,7 @@ const signout = () => {
   return (
     <View>
       <Text>signout</Text>
+      {/* <Button title="Sign Out" onPress={() => router.push("/signin")} /> */}
     </View>
   );
 };

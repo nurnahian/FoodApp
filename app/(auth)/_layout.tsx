@@ -1,9 +1,5 @@
-import { Text, View } from "react-native";
+import { Slot } from "expo-router";
 
 export default function _layout() {
-  return (
-    <View>
-      <Text>Auth layout</Text>
-    </View>
-  );
+  return <Slot />;
 }
